@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rover", "Rover.csproj", "{B27E1337-8D49-41E9-B811-D53F3F238AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverTest", "RoverTest\RoverTest.csproj", "{A1584BBC-ECEE-4115-B8B8-24B600E1E187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27E1337-8D49-41E9-B811-D53F3F238AB2}.Debug|x86.ActiveCfg = Debug|x86
+		{B27E1337-8D49-41E9-B811-D53F3F238AB2}.Debug|x86.Build.0 = Debug|x86
+		{B27E1337-8D49-41E9-B811-D53F3F238AB2}.Release|x86.ActiveCfg = Release|x86
+		{B27E1337-8D49-41E9-B811-D53F3F238AB2}.Release|x86.Build.0 = Release|x86
+		{A1584BBC-ECEE-4115-B8B8-24B600E1E187}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A1584BBC-ECEE-4115-B8B8-24B600E1E187}.Debug|x86.Build.0 = Debug|Any CPU
+		{A1584BBC-ECEE-4115-B8B8-24B600E1E187}.Release|x86.ActiveCfg = Release|Any CPU
+		{A1584BBC-ECEE-4115-B8B8-24B600E1E187}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
